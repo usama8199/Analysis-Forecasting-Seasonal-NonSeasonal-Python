@@ -1,6 +1,10 @@
 # Analysis-Forecasting-Seasonal-NonSeasonal-Python
 
-### Forecasting of Non-Seasonal(electrcity_consumption) and Seasonal(temperature) variables
+## Overview
+• Cleaned and analyze the data sets using python
+
+• Using ARIMA and Exponential smoothing fitted and forecasted the non-
+seasonal and seasonal variable respectively
 
 ## Data Sets
  ID, datetime, temperature, var1, pressure, windspeed, var2, electricity_consumption
